@@ -152,7 +152,8 @@ header{
 } 
 .item4{
     background-image: url(../img/item4-big.svg) ;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
     height:300px ;
 }
 .stars{
